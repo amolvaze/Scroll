@@ -12,4 +12,4 @@ For this project, dummy static content is taken along with one image-wrapped cus
 
 A certain condition inside this function is used to check whether an user has reached to bottom of the web page or not. 
 
-Conclusion: - Most of the social networking site makes use of it like Facebook, LinkedIn.
+Conclusion: - Most of the social networking sites like Facebook, LinkedIn make use of it .
